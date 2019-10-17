@@ -1,0 +1,28 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "a crawler for CS419",
+  "main": "app.js",
+  "dependencies": {
+    "array-includes": "^3.0.3",
+    "cheerio": "^1.0.0-rc.3",
+    "js-crawler": "^0.3.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenmtvy/CS419.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "VyNg",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nguyenmtvy/CS419/issues"
+  },
+  "homepage": "https://github.com/nguyenmtvy/CS419#readme"
+}
